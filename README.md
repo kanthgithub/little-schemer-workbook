@@ -12,3 +12,9 @@ You'll need [Racket][2] and [Rlwrap][3] installed. Racket is a modern, Scheme-li
 
 [2]: http://racket-lang.org/
 [3]: https://github.com/hanslub42/rlwrap
+
+Web link: 
+
+https://www.viget.com/articles/the-little-schemer-will-expand-blow-your-mind/
+
+https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992
